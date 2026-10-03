@@ -1,0 +1,14 @@
+{
+  "name": "Nick's Life Dashboard",
+  "short_name": "Life Dashboard",
+  "description": "Nick's personal task, project, routine, reward, and life management dashboard.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061d2b",
+  "theme_color": "#0b5d58",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
